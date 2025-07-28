@@ -9,7 +9,7 @@ while (a < 5) {
 print(a)
 
 ```
-# Approach
+## Approach
 
 ### step1- a=1, since a<5 a=3
 ### step2- a=3, since a<5 a=5

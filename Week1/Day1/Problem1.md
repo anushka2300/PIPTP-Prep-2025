@@ -1,3 +1,4 @@
+```python
 void func(int a,int b){
     y=0;
     if(x%w==0 || w%x==0){
@@ -9,6 +10,7 @@ void func(int a,int b){
     print(y)
 }
 func(40,4);
+```
 
 # Approach
 
